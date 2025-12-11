@@ -8,7 +8,7 @@ Add below to your `.zshrc`.
 ZSH_THEME="zero"
 ```
 
-### If you using [Chezmoi](https://www.chezmoi.io/)
+### Install with [Chezmoi](https://www.chezmoi.io/)
 
 You can add below to your `.chezmoiexternal.toml`
 
@@ -25,6 +25,6 @@ and run
 chezmoi -R apply
 ```
 
-### Download `zero.zsh-theme`
+### Install with Downloading `zero.zsh-theme` file.
 
-And move into `.oh-my-zsh/custom/themes`.
+Download `zero.zsh-theme` and move it to `$HOME/.oh-my-zsh/custom/themes/`
